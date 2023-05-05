@@ -1,0 +1,13 @@
+D:\PostGraduate\Project_post\VRP\VRP_2023_5\ConsoleApp1\ConsoleApp1\bin\x64\Debug\ConsoleApp1.exe.config
+D:\PostGraduate\Project_post\VRP\VRP_2023_5\ConsoleApp1\ConsoleApp1\bin\x64\Debug\ConsoleApp1.exe
+D:\PostGraduate\Project_post\VRP\VRP_2023_5\ConsoleApp1\ConsoleApp1\bin\x64\Debug\ConsoleApp1.pdb
+D:\PostGraduate\Project_post\VRP\VRP_2023_5\ConsoleApp1\ConsoleApp1\bin\x64\Debug\ILOG.CPLEX.dll
+D:\PostGraduate\Project_post\VRP\VRP_2023_5\ConsoleApp1\ConsoleApp1\bin\x64\Debug\ILOG.Concert.dll
+D:\PostGraduate\Project_post\VRP\VRP_2023_5\ConsoleApp1\ConsoleApp1\bin\x64\Debug\ILOG.CPLEX.xml
+D:\PostGraduate\Project_post\VRP\VRP_2023_5\ConsoleApp1\ConsoleApp1\bin\x64\Debug\ILOG.Concert.xml
+D:\PostGraduate\Project_post\VRP\VRP_2023_5\ConsoleApp1\ConsoleApp1\obj\x64\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\PostGraduate\Project_post\VRP\VRP_2023_5\ConsoleApp1\ConsoleApp1\obj\x64\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\PostGraduate\Project_post\VRP\VRP_2023_5\ConsoleApp1\ConsoleApp1\obj\x64\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\PostGraduate\Project_post\VRP\VRP_2023_5\ConsoleApp1\ConsoleApp1\obj\x64\Debug\ConsoleApp1.csproj.CopyComplete
+D:\PostGraduate\Project_post\VRP\VRP_2023_5\ConsoleApp1\ConsoleApp1\obj\x64\Debug\ConsoleApp1.exe
+D:\PostGraduate\Project_post\VRP\VRP_2023_5\ConsoleApp1\ConsoleApp1\obj\x64\Debug\ConsoleApp1.pdb
